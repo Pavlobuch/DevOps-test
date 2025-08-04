@@ -1,0 +1,8 @@
+ssh-keygen
+nano ~/.ssh/config
+ssh -T git@github.com
+git clone
+git checkout -b
+git add
+git commit -m 
+git push
