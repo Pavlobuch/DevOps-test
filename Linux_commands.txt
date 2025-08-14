@@ -1,0 +1,35 @@
+## Linux commands
+mkdir my-dir
+
+chmod
+
+chown
+
+sudo yum update
+
+sudo yum install
+
+ps aux
+
+sudo systemctl status httpd
+
+sudo systemctl start httpd
+
+sudo systemctl enable httpd
+
+stress --cpu 4 --timeout 600s &
+
+top
+
+ps aux | grep stress
+
+sudo kill
+
+sudo parted
+
+sudo mkfs
+
+sudo mkdir /data
+
+sudo mount
+
