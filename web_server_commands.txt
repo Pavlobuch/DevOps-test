@@ -1,0 +1,12 @@
+ls
+cd
+cp
+nano
+curl
+which
+make
+sudo
+grep
+nginx
+systemctl
+
